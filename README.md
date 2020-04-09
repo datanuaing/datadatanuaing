@@ -7,7 +7,7 @@
 # $ pkg install bash
 # $ pkg install python2
 # $ pkg install git
-# $ git clone https://github.com/Rusmana-ID/rus
+# $ git clone https://github.com/adi-ID/rus
 # $ cd rus
 # $ sh v2.sh
 
